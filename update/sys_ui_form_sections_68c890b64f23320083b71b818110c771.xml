@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="68c890b64f23320083b71b818110c771" sys_domain="global" table="x_62328_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-27 20:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90d8dcf24f23320083b71b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_62328_innovate_innovate" name="x_62328_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">68c890b64f23320083b71b818110c771</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_62328_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a8c890b64f23320083b71b818110c7a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-27 20:34:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-27 20:35:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>971950764f23320083b71b818110c75b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_62328_innovate_innovate" name="x_62328_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">68c890b64f23320083b71b818110c771</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_62328_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">531950764f23320083b71b818110c75a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-27 20:35:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_62328_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-27 20:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68c890b64f23320083b71b818110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_62328_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_62328_innovate">15c254b24f23320083b71b818110c7d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">15c254b24f23320083b71b818110c7d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_68c890b64f23320083b71b818110c771</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-27 20:33:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
